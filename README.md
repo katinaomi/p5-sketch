@@ -1,2 +1,2 @@
 # p5-sketch
-Das ist mein kreativer P5-Code. Es handelt sich um ein interaktives Mosaik. Wenn man mit der Maus diagonal über die linke obere oder linke untere Ecke der Leinwand fährt und dort hoch- oder runtergleitet, ändert sich das Motiv.
+ It's an interactive mosaic. If you move the mouse diagonally over the top left or bottom left corner of the canvas and slide it up or down (diagonally), the motif changes.
